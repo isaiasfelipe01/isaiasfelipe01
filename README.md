@@ -15,6 +15,6 @@
      -> 🌎 Mundo 3
         - Esrtutura de dados, funções, módulos e tratamento de erros.
 
-💾 Curso de Git e GitHub da plataforms [Curso em Vídeo](https://www.cursoemvideo.com/)
+💾 Curso de Git e GitHub da plataforma [Curso em Vídeo](https://www.cursoemvideo.com/)
 
      -> Versionamento, repositório, hospedagem de código e Ghit Branchs.
