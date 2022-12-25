@@ -18,3 +18,4 @@
 💾 Curso de Git e GitHub da plataforma [Curso em Vídeo](https://www.cursoemvideo.com/)
 
      -> Versionamento, repositório, hospedagem de código e Ghit Branchs.
+---------------------------------
