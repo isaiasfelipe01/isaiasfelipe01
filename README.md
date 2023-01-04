@@ -16,7 +16,7 @@ Pretendo me tornar um profissionoal especializado na área do backend com  a lin
 
 💾 Django - Fremework que estou estudando e venho praticado no momento.
 
-Todos o meu desenvolvimento ao decorrer do meu aprendizado está disponível em um repositório.
+Todos o meu desenvolvimento ao decorrer do meu aprendizado está disponível em meus [repositórios](https://github.com/isaiasfelipe01?tab=repositories).
 
 ### Aprendizados futuros
 
