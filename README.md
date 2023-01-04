@@ -1,6 +1,6 @@
-## ✌️ Olá, eu sou [Isaías Felipe](https://www.linkedin.com/in/isa%C3%ADas-felipe-silva-de-sousa-21a84721b/).
+# ✌️ Olá, eu sou [Isaías Felipe](https://www.linkedin.com/in/isa%C3%ADas-felipe-silva-de-sousa-21a84721b/).
 
-### Intro
+### Introdução
 
 Realizei o curso técnico em administração integrado ao ensino médio e atualmente estudo de forma autônoma a linguagem Python, desde novembro de 2021. Com o decorrer do meu aprendizado venho focando cada vez mais no backend, pretendendo me tornar Full stack futuramente. Almejo me formar em ciências da computação para obter cada vez mais informações e conhecimentos que eu não encontraria estudando de forma autônoma, relacionado a área da programação. No decorrer do meu aprendizado com a linguagem Python desenvolvi diversos exercício que, após realizar um curso de Git e GitHub, criei um repositório para demonstrar meu conhecimento ao longo do meu aprendizado com a linguagem. Ultimamente tenho me dedicado bastante ao Django, e já tenho uma base do inglês técnico, pretendo me tornar fluente no inglês.
 
