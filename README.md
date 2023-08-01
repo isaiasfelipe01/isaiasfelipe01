@@ -7,6 +7,7 @@ Realizei o curso Técnico em Administração integrado ao ensino médio e atualm
 ### Objetivos
 
 -Me formar e obter conhecimentos específicos da área;
+
 -Aprender a língua inglesa.
 
 ### Competências
