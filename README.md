@@ -12,6 +12,7 @@ Realizei o curso Técnico em Administração integrado ao ensino médio e atualm
 ### Competências
 
 💾 Python
+
 💾 Git e GitHub
 
 Aqui estão todos os meus [repositórios](https://github.com/isaiasfelipe01?tab=repositories) com toda a minha prática de aprendizado ao  longo do tempo.
