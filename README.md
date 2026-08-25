@@ -31,4 +31,4 @@ Atualmente focado em construir ferramentas para análise financeira e modelos pr
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/isaias-felipe-3b207027b/)
+- [LinkedIn](https://www.linkedin.com/in/isa%C3%ADas-felipe-silva-de-sousa-453902327/)
